@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cdot.fingerintheair.com.cdot.fingerintheair.MainActivity">
+    <item
+        android:id="@+id/menu_preference"
+        android:orderInCategory="100"
+        android:title="Preferences"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_stopService"
+        android:orderInCategory="101"
+        android:title="Stop Service" />
+    <item
+        android:id="@+id/menu_restartService"
+        android:orderInCategory="102"
+        android:title="Restart Service" />
+</menu>

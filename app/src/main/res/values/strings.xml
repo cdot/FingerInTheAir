@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finger In The Air</string>
+    <string name="action_settings">Preferences</string>
+    <string name="preference_file">File to store samples in</string>
+    <string name="preference_frequency">Sampling frequency (seconds)</string>
+    <string name="preference_life">Sample lifetime (seconds)</string>
+    <string name="sensors">Sensors</string>
+    <string name="log">Log</string>
+</resources>
